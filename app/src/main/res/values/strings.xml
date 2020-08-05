@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Thiandroid</string>
+    <string name="textView1">TextView</string>
+    <string name="editText1" />
+    <string name="button1">OK</string>
+    <string name="TextN" />
+    <string name="ketqua">Ket qua</string>
+    <string name="btnBack">Back main</string>
+    <string name="textview">Nhập số ở đây</string>
+    <string name="textView2">Kết quả các số lẻ</string>
+</resources>
